@@ -1,1 +1,1 @@
-https://github.com/pastorjosephgoodluck-tech/BB-ELECRONICS.git
+https://BB-ELECRONICS.git
